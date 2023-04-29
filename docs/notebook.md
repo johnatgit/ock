@@ -1,1 +1,2 @@
-![image](https://user-images.githubusercontent.com/3105768/235305965-a6151ed0-a68d-43ed-8946-5abf3becad4c.png)
+我的模型在哪里？
+~/.cache/huggingface/hub/models--togethercomputer--Pythia-Chat-Base-7B/
